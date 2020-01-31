@@ -1,0 +1,14 @@
+h2, p {
+    text-align: center;
+    font-family: "Arial Narrow", sans-serif;
+}
+
+textarea {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body {
+    background-color: whitesmoke;
+}
